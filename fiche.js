@@ -67,11 +67,11 @@ document.querySelectorAll(".box").forEach(box => {
     if (cmp > 0) cmp--;
     input.value = cmp;
   };
-  // لتسهيل تصفير المتغير cmp لاحقاً، سنخزنه في المجلد
+   
   box.resetCmp = () => { cmp = 0; input.value = 0; };
 });
 
-// السلة والحسابات
+//total
 let cartItems = {};
 let total = 0;
 const totalBox = document.querySelector(".total");
