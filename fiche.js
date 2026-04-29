@@ -1,13 +1,13 @@
 const products = [
-  { name: "Nounours marron", price: 35, img: "../Images/nounours1.jpg" },
-  { name: "Nounours blanc", price: 45, img: "../Images/nounours2.jpg" },
-  { name: "Nounours", price: 65, img: "../Images/nounours3.jpg" },
-  { name: "panda", price: 95, img: "../Images/panda.jpg" },
-  { name: "pikatchu", price: 95, img: "../Images/pikachu.jpg" },
-  { name: "link", price: 25, img: "../Images/link.jpg" },
-  { name: "poule", price: 35, img: "../Images/poule.jpg" },
-  { name: "girafe", price: 45, img: "../Images/girafe.jpg" },
-  { name: "hibou", price: 45, img: "../Images/hibou.jpg" },
+  { name: "Nounours marron", price: 35, img: "Images/nounours1.jpg" },
+  { name: "Nounours blanc", price: 45, img: "Images/nounours2.jpg" },
+  { name: "Nounours", price: 65, img: "Images/nounours3.jpg" },
+  { name: "panda", price: 95, img: "Images/panda.jpg" },
+  { name: "pikatchu", price: 95, img: "Images/pikachu.jpg" },
+  { name: "link", price: 25, img: "Images/link.jpg" },
+  { name: "poule", price: 35, img: "Images/poule.jpg" },
+  { name: "girafe", price: 45, img: "Images/girafe.jpg" },
+  { name: "hibou", price: 45, img: "Images/hibou.jpg" },
 ];
 
 const app = document.getElementById("app");
